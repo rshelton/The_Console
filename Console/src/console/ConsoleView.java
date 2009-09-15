@@ -27,6 +27,7 @@ import org.jdesktop.beansbinding.PropertyStateEvent;
 
 /**
  * The application's main frame.
+ * @Author rshleton
  */
 public class ConsoleView extends FrameView {
     
